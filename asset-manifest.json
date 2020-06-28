@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/app.getvideodoc.com/static/css/main.dbeeb033.chunk.css",
+    "main.js": "/app.getvideodoc.com/static/js/main.36d2bf16.chunk.js",
+    "main.js.map": "/app.getvideodoc.com/static/js/main.36d2bf16.chunk.js.map",
+    "runtime-main.js": "/app.getvideodoc.com/static/js/runtime-main.47d72e25.js",
+    "runtime-main.js.map": "/app.getvideodoc.com/static/js/runtime-main.47d72e25.js.map",
+    "static/js/2.ba1f77cd.chunk.js": "/app.getvideodoc.com/static/js/2.ba1f77cd.chunk.js",
+    "static/js/2.ba1f77cd.chunk.js.map": "/app.getvideodoc.com/static/js/2.ba1f77cd.chunk.js.map",
+    "index.html": "/app.getvideodoc.com/index.html",
+    "precache-manifest.78c9aabb43278ed8a63273ed588ad22d.js": "/app.getvideodoc.com/precache-manifest.78c9aabb43278ed8a63273ed588ad22d.js",
+    "service-worker.js": "/app.getvideodoc.com/service-worker.js",
+    "static/css/main.dbeeb033.chunk.css.map": "/app.getvideodoc.com/static/css/main.dbeeb033.chunk.css.map",
+    "static/js/2.ba1f77cd.chunk.js.LICENSE.txt": "/app.getvideodoc.com/static/js/2.ba1f77cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47d72e25.js",
+    "static/js/2.ba1f77cd.chunk.js",
+    "static/css/main.dbeeb033.chunk.css",
+    "static/js/main.36d2bf16.chunk.js"
+  ]
+}
