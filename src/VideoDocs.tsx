@@ -51,9 +51,9 @@ const VideoCard = () => (
     </Card>
     <VideoTitle>Watch External Dependencies</VideoTitle>
     <VideoMetaData>
-      <div>0:54</div>
+      <div>3:40</div>
       &nbsp; • &nbsp;
-      <div>3 years ago</div>
+      <div>Recently Updated</div>
     </VideoMetaData>
   </div>
 );
